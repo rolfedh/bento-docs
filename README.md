@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## A fast and easy system you can use to document any software
+
+Bento-docs is a method for writing software docs. Anyone can use it: developers, technical writers, newcomers...anyone. Just follow the instructions.
+
+## Instructions
+
+### Write a list of your most important users
+
+
+
+
 
 [I'm a relative reference to a repository file](about.md)
 You can use the [editor on GitHub](https://github.com/rolfedh/bento-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
