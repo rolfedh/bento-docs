@@ -3,7 +3,7 @@
 * Bento-docs is a simple step-by-step method for documenting software.
 * Almost anyone can do it. You certainly can.
 
-## Words of encouragement
+### Words of encouragement
 
 If you find writing docs difficult and tend to get stuck, say the following phrases out loud to yourself:
 
@@ -15,12 +15,13 @@ If you find writing docs difficult and tend to get stuck, say the following phra
 * To improve our docs, we will revise them.
 * Questions and comments from readers/users are scary. Use them like fertilizer to improve your docs.
 
-If you get stuck:
+### If you get stuck
 
-1. Set a time limit (several hours or days, maximum).
-2. Do your best within that time limit.
-3. Move on to the next thing.
-4. **Continue until you complete the process**.
+1. Give yourself a three-hour time box to work on a step.
+2. Set an alarm to go off in three hours. (Really - do this.)
+3. Work on the step until the time box ends. No extensions.
+4. Move on to the next step.
+5. **Continue until you complete the process**. Do not stop or reverse direction.
 
 ## Step #1: List your three most important user types or roles
 
@@ -37,7 +38,7 @@ For example:
 
 ## Step #2
 
-For each user, 
+For each user,
 
 
 
