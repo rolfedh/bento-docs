@@ -5,20 +5,22 @@
 
 ## Words of encouragement
 
-If you find writing docs difficult and tend to get stuck, this is for you:
+If you find writing docs difficult and tend to get stuck, say the following phrases out loud to yourself:
 
-* Your first drafts are going to **stink** because they always do.
-* You've got to start somewhere.
 * Having some docs is better than having none.
-* They are going to get better with revisions.
-* Writing is thinking. Revising is refining your thoughts out.
-* You're going to get questions and comments from users. That's pure gold for improving your docs.
+* We have to start somewhere.
+* First drafts are about discovery.
+* Our first drafts are going to **stink**; they always do.
+* Writing is thinking. Revising is refining.
+* To improve our docs, we will revise them.
+* Questions and comments from readers/users are scary. Use them like fertilizer to improve your docs.
 
 If you get stuck:
 
-1. Set a time limit (several hours or days).
+1. Set a time limit (several hours or days, maximum).
 2. Do your best within that time limit.
-3. Move on to the next thing and **continue until you complete the process**.
+3. Move on to the next thing.
+4. **Continue until you complete the process**.
 
 ## Step #1: List your three most important user types or roles
 
@@ -35,7 +37,7 @@ For example:
 
 ## Step #2
 
-For the first user,
+For each user, 
 
 
 
