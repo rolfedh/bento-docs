@@ -6,6 +6,7 @@
 ## Words of encouragement
 
 If you find writing docs difficult and tend to get stuck, this is for you:
+
 * Your first drafts are going to **stink** because they always do.
 * You've got to start somewhere.
 * Having some docs is better than having none.
@@ -14,6 +15,7 @@ If you find writing docs difficult and tend to get stuck, this is for you:
 * You're going to get questions and comments from users. That's pure gold for improving your docs.
 
 If you get stuck:
+
 1. Set a time limit (several hours or days).
 2. Do your best within that time limit.
 3. Move on to the next thing and **continue until you complete the process**.
